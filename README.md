@@ -11,8 +11,8 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sambhav-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sambhavdas444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/sambhav-das/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sambhavdas444@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -119,14 +119,14 @@ I like participating in hackathons, experimenting with new technologies, and tur
 ## 📈 Engineering Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMBHAV001-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMBHAV001-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBHAV001-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMBHAV001-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
@@ -146,7 +146,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
   </picture>
 </div>
 
-*(Note: The snake animation requires a GitHub Action configured within this repository to generate the SVG.)*
+
 
 <br>
 
