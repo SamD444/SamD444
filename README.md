@@ -1,20 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8FF&height=200&section=header&text=Sambhav%20Das&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8FF&height=200&section=header&text=Building%20the%20Future%20in%20Code%20%F0%9F%9A%80&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+the+Future+in+Code+%F0%9F%9A%80;AI+%26+Backend+Engineer;Full+Stack+Developer;Cloud+%26+Scalable+Systems+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+the+Future+in+Code+%F0%9F%9A%80;AI+%26+Backend+Systems;Intelligent+Architectures;AI+Agents+%26+Scalable+Systems;Real-World+Problem+Solving" alt="Typing SVG" />
   </a>
   
   <p align="center">
-    <b>Innovating through scalable systems, intelligent agents, and resilient architectures.</b><br>
-    <i>4th Year B.Tech CSE Student at KIIT | AI & Backend Engineering</i>
+    <b>Innovating through scalable architectures, intelligent agents, and resilient systems.</b><br>
+    <i>Builder | AI & Backend Enthusiast | Systems-Focused Developer</i>
   </p>
 
   <p align="center">
-    <!-- REPALCE THE LINKS BELOW WITH YOUR ACTUAL PROFILE LINKS -->
-    <a href="[PLACEHOLDER_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:[PLACEHOLDER_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="[PLACEHOLDER_PORTFOLIO]"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/sambhav-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sambhavdas444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -22,11 +20,11 @@
 
 ## 🚀 About Me
 
-I am a software engineer driven by a passion for solving complex problems through elegant, scalable code. Rather than just building applications, I focus on engineering **systems**—architectures that handle scale, models that derive real intelligence, and security protocols that withstand scrutiny. 
+I am a developer driven by a profound intellectual curiosity for how systems operate at scale. Rather than just writing applications, I focus on engineering **intelligent architectures**—pipelines that derive real insights, backend services that handle load gracefully, and security protocols that withstand scrutiny.
 
 - 🔭 **Currently Focusing On:** AI Agents, RAG Systems, High-Performance Backend Architecture
-- 🌱 **Actively Exploring:** Cloud-Native Technologies, Distributed Systems, Cybersecurity
-- 💡 **Engineering Philosophy:** Build meaningful, impactful systems that solve real-world problems. Clean code is good; resilient systems are better.
+- 🌱 **Actively Exploring:** Distributed Systems, Cybersecurity, Intelligent Applications
+- 💡 **Engineering Philosophy:** Build meaningful, impactful systems that solve real-world problems. I thrive in hackathons and love transforming complex challenges into elegant technical solutions.
 
 <br>
 
@@ -37,66 +35,86 @@ I am a software engineer driven by a passion for solving complex problems throug
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF--IDF-009688?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vader_Sentiment-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP_Pipelines-E91E63?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-4CAF50?style=for-the-badge&logo=robot&logoColor=white" />
 </p>
 
 ### Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### Frontend & Cloud
+### Deployment, Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p>
+  <i>Actively exploring CI/CD workflows, infrastructure automation pipelines, and scheduled GitHub Actions workflows to streamline deployment and ensure resilient system availability.</i>
+</p>
+
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 <br>
 
-## 🔬 Featured Engineering Projects
+## 🔬 Featured Engineering Systems
 
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ MineGuard AI</h3>
-      <p><i>AI-powered Smart Rockfall Prediction System</i></p>
-      <p>Leverages environmental data, DEM analysis, and machine learning prediction models alongside simulated IoT data to deliver real-time rockfall alerts and structural risk assessments.</p>
+      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/SkillDelta">🎯 SkillDelta</a></h3>
+      <p><i>AI-powered Skill Intelligence Platform</i></p>
+      <p>An intelligent career analysis ecosystem focused on identifying skill gaps and mapping learning trajectories. Features robust AI-driven insights, advanced analytics, and intelligent recommendation systems built with a scalable architecture mindset.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ Event Safety AI System</h3>
-      <p><i>Crowd Intelligence & Safety Management</i></p>
-      <p>A software-first AI solution engineered to manage crowd safety dynamics at massive public gatherings like Rath Yatra, Kumbh Mela, and stadiums. Analyzes density and prevents bottlenecks.</p>
+      <h3 align="center">🛡️ MineGuard AI</h3>
+      <p><i>Smart Rockfall Prediction & Risk Intelligence</i></p>
+      <p>An AI-powered risk assessment system leveraging environmental data, DEM analysis, and complex prediction pipelines. Integrates simulated IoT sensors for real-time hazard alerts and intelligent structural evaluations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐝 DealsHive</h3>
-      <p><i>E-Commerce Aggregator Engine</i></p>
-      <p>A sophisticated fashion comparison platform that aggregates and compares prices, ratings, and product images across multiple prominent e-commerce platforms simultaneously.</p>
+      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/cartcoroner-ai">🛒 CartCoroner AI</a></h3>
+      <p><i>Behavioral Analytics & Intelligence</i></p>
+      <p>An AI-driven cart abandonment intelligence platform utilizing deep sentiment analysis, predictive analytics, and intelligent recommendation workflows to optimize user retention and conversion pathways.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Insurance RAG Assistant</h3>
-      <p><i>Document Intelligence System</i></p>
-      <p>AI-powered document intelligence leveraging natural language querying to extract semantic insights from complex PDFs and emails utilizing the Gemini API.</p>
+      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/XSteam">🎮 XSteam</a></h3>
+      <p><i>Digital Distribution Infrastructure</i></p>
+      <p>A comprehensive, high-performance content delivery platform engineered with scalable backend microservices, robust concurrent session management, and highly secure API integrations.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <h3 align="center">✈️ JetSet AI</h3>
-      <p align="center"><i>Intelligent Travel Platform</i></p>
-      <p align="center">A modern AI-integrated travel ecosystem showcasing robust frontend architecture and highly scalable backend infrastructure.</p>
+      <p align="center"><i>Intelligent Travel Ecosystem</i></p>
+      <p align="center">A modern AI-integrated travel platform showcasing elegant frontend development paired with deep backend integration, orchestrating intelligent workflows for seamless user experiences.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 📈 GitHub Analytics
+## 📈 Engineering Metrics & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAMBHAV001-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -111,7 +129,13 @@ I am a software engineer driven by a passion for solving complex problems throug
 
 <br>
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Graph & Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMBHAV001-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMBHAV001-tech/SAMBHAV001-tech/output/github-contribution-grid-snake-dark.svg">
@@ -120,14 +144,7 @@ I am a software engineer driven by a passion for solving complex problems throug
   </picture>
 </div>
 
-*(Note: The snake animation requires a GitHub Action to generate the SVG. You will need to setup the snake action in this repository for this to appear.)*
-
-<br>
-
-## 💡 Engineering Mindset
-> *"An engineer doesn't just write code; an engineer designs solutions that outlast the problem."*
-
-I believe in continuous iteration, unbreakable resilience, and designing systems that scale gracefully. Whether I am fine-tuning a RAG model, securing an API endpoint, or architecting a database schema, my goal remains the same: **Building the future, one line of code at a time.**
+*(Note: The snake animation requires a GitHub Action configured within this repository to generate the SVG.)*
 
 <br>
 
