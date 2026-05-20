@@ -100,13 +100,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 ## 📈 Engineering Metrics & Analytics
 
 <div align="center">
-  <table bordercolor="#30363d" bgcolor="#0d1117">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
 
@@ -114,13 +108,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 ### 🐍 Contribution Graph & Activity
 <div align="center">
-  <table bordercolor="#30363d" bgcolor="#0d1117">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMBHAV001-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMBHAV001-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
