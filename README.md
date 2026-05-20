@@ -82,17 +82,17 @@ I like participating in hackathons, experimenting with new technologies, and tur
 ## 🔬 Featured Engineering Systems
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/SkillDelta"><img src="assets/skilldelta-v2.svg" width="48%" /></a>
-  <a href="https://github.com/SAMBHAV001-tech/MineGuard"><img src="assets/mineguard-v2.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/SkillDelta"><img src="assets/skilldelta-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/MineGuard"><img src="assets/mineguard-v3.svg" width="48%" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/cartcoroner-ai"><img src="assets/cartcoroner-v2.svg" width="48%" /></a>
-  <a href="https://github.com/SAMBHAV001-tech/XSteam"><img src="assets/xsteam-v2.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/cartcoroner-ai"><img src="assets/cartcoroner-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/XSteam"><img src="assets/xsteam-v3.svg" width="48%" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/JetSet.ai"><img src="assets/jetset-v2.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/JetSet.ai"><img src="assets/jetset-v3.svg" width="48%" /></a>
 </div>
 
 <br>

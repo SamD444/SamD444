@@ -13,10 +13,26 @@
     </filter>
   </defs>
   <style>
-    .card { fill: url(#bg); stroke: rgba(255,255,255,0.08); stroke-width: 1; rx: 12px; transition: all 0.3s ease; }
-    .wrapper { transform-origin: center; transition: transform 0.3s ease; cursor: pointer; }
-    .wrapper:hover { transform: translateY(-4px); }
-    .wrapper:hover .card { stroke: #00ffff; filter: url(#glow); }
+    @keyframes pulseGlow {
+      0%, 100% { stroke: rgba(255,255,255,0.08); filter: none; }
+      50% { stroke: #00ffff; filter: url(#glow); }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-4px); }
+    }
+    .card { 
+      fill: url(#bg); 
+      stroke-width: 1; 
+      rx: 12px; 
+      animation: pulseGlow 4.2s ease-in-out infinite; 
+      animation-delay: 0.5s;
+    }
+    .wrapper { 
+      transform-origin: center; 
+      animation: float 4.2s ease-in-out infinite;
+      animation-delay: 0.5s;
+    }
     .title { font-family: 'Inter', -apple-system, sans-serif; font-size: 20px; font-weight: 700; fill: #e6edf3; }
     .subtitle { font-family: 'Inter', -apple-system, sans-serif; font-size: 13px; font-style: italic; fill: #8b949e; }
     .desc { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; fill: #c9d1d9; font-weight: 400; }
