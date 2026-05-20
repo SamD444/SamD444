@@ -102,8 +102,8 @@ I like participating in hackathons, experimenting with new technologies, and tur
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/XSteam">🎮 XSteam</a></h3>
-      <p><i>Digital Distribution Infrastructure</i></p>
-      <p>A comprehensive, high-performance content delivery platform engineered with scalable backend microservices, robust concurrent session management, and highly secure API integrations.</p>
+      <p><i>Game Review Intelligence & Analysis API</i></p>
+      <p>A high-performance NLP inference pipeline built with FastAPI. Leverages machine learning and customized TF-IDF vectorization to instantly predict sentiment, extract influential keywords, and score community helpfulness.</p>
     </td>
   </tr>
   <tr>
