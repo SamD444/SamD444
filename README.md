@@ -20,11 +20,13 @@
 
 ## 🚀 About Me
 
-I am a developer driven by a profound intellectual curiosity for how systems operate at scale. Rather than just writing applications, I focus on engineering **intelligent architectures**—pipelines that derive real insights, backend services that handle load gracefully, and security protocols that withstand scrutiny.
+I enjoy building AI-powered applications and backend systems that solve practical problems. My interests mainly revolve around intelligent systems, scalable backend architecture, and real-world software development.
 
-- 🔭 **Currently Focusing On:** AI Agents, RAG Systems, High-Performance Backend Architecture
-- 🌱 **Actively Exploring:** Distributed Systems, Cybersecurity, Intelligent Applications
-- 💡 **Engineering Philosophy:** Build meaningful, impactful systems that solve real-world problems. I thrive in hackathons and love transforming complex challenges into elegant technical solutions.
+I like participating in hackathons, experimenting with new technologies, and turning ideas into functional products while continuously learning along the way.
+
+- 🔭 **Currently Exploring:** AI Agents, RAG Systems, Backend Development
+- 🌱 **Learning More About:** Distributed Systems, Cybersecurity, Scalable Architectures
+- 💡 **Mindset:** Build useful systems, keep learning, and focus on solving real problems through technology.
 
 <br>
 
@@ -86,7 +88,7 @@ I am a developer driven by a profound intellectual curiosity for how systems ope
       <p>An intelligent career analysis ecosystem focused on identifying skill gaps and mapping learning trajectories. Features robust AI-driven insights, advanced analytics, and intelligent recommendation systems built with a scalable architecture mindset.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ MineGuard AI</h3>
+      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/MineGuard">🛡️ MineGuard AI</a></h3>
       <p><i>Smart Rockfall Prediction & Risk Intelligence</i></p>
       <p>An AI-powered risk assessment system leveraging environmental data, DEM analysis, and complex prediction pipelines. Integrates simulated IoT sensors for real-time hazard alerts and intelligent structural evaluations.</p>
     </td>
@@ -105,7 +107,7 @@ I am a developer driven by a profound intellectual curiosity for how systems ope
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3 align="center">✈️ JetSet AI</h3>
+      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/JetSet.ai">✈️ JetSet AI</a></h3>
       <p align="center"><i>Intelligent Travel Ecosystem</i></p>
       <p align="center">A modern AI-integrated travel platform showcasing elegant frontend development paired with deep backend integration, orchestrating intelligent workflows for seamless user experiences.</p>
     </td>
