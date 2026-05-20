@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8FF&height=200&section=header&text=Building%20the%20Future%20in%20Code%20%F0%9F%9A%80&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A8FF&height=200&section=header&text=Building%20the%20Future%20in%20Code%20%F0%9F%9A%80&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" /></picture>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+the+Future+in+Code+%F0%9F%9A%80;AI+%26+Backend+Systems;Intelligent+Architectures;AI+Agents+%26+Scalable+Systems;Real-World+Problem+Solving" alt="Typing SVG" />
@@ -35,36 +35,36 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 ### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></picture>
 </p>
 
 ### AI & Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF--IDF-009688?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vader_Sentiment-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP_Pipelines-E91E63?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-4CAF50?style=for-the-badge&logo=robot&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/TF--IDF-009688?style=for-the-badge&logo=scikitlearn&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Vader_Sentiment-9C27B0?style=for-the-badge&logo=python&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/NLP_Pipelines-E91E63?style=for-the-badge&logo=spacy&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/AI_Agents-4CAF50?style=for-the-badge&logo=robot&logoColor=white" /></picture>
 </p>
 
 ### Backend & Database
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></picture>
 </p>
 
 ### Deployment, Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></picture>
+  <picture><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></picture>
 </p>
 <p>
   <i>Actively exploring CI/CD workflows, infrastructure automation pipelines, and scheduled GitHub Actions workflows to streamline deployment and ensure resilient system availability.</i>
@@ -72,9 +72,9 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <picture><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></picture>
+  <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></picture>
+  <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></picture>
 </p>
 
 <br>
@@ -130,9 +130,9 @@ I like participating in hackathons, experimenting with new technologies, and tur
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAMBHAV001-tech&color=00A8FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <picture><img src="https://komarev.com/ghpvc/?username=SAMBHAV001-tech&color=00A8FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></picture>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,100:000000&height=100&section=footer" width="100%" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,100:000000&height=100&section=footer" width="100%" /></picture>
 </div>
