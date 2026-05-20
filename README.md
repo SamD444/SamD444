@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><img src="assets/header-v1.svg" width="100%" /></picture>
+  <picture><img src="assets/header-v2.svg" width="100%" /></picture>
 
   <picture>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+the+Future+in+Code+%F0%9F%9A%80;AI+%26+Backend+Systems;Intelligent+Architectures;AI+Agents+%26+Scalable+Systems;Real-World+Problem+Solving" alt="Typing SVG" />

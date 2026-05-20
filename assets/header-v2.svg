@@ -47,7 +47,7 @@
         
       
   <!-- Easter Egg: Minimalistic Schematic Setup -->
-  <g transform="translate(730, 90) scale(0.9)" opacity="0.8">
+  <g transform="translate(760, 125) scale(0.6)" opacity="0.8">
     <!-- Monitor frame -->
     <rect x="0" y="0" width="80" height="50" rx="2" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1.5" />
     <rect x="4" y="4" width="72" height="42" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1" />
