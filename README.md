@@ -81,46 +81,32 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 ## 🔬 Featured Engineering Systems
 
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/SkillDelta">🎯 SkillDelta</a></h3>
-      <p><i>AI-powered Skill Intelligence Platform</i></p>
-      <p>An intelligent career analysis ecosystem focused on identifying skill gaps and mapping learning trajectories. Features robust AI-driven insights, advanced analytics, and intelligent recommendation systems built with a scalable architecture mindset.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/MineGuard">🛡️ MineGuard AI</a></h3>
-      <p><i>Smart Rockfall Prediction & Risk Intelligence</i></p>
-      <p>An AI-powered risk assessment system leveraging environmental data, DEM analysis, and complex prediction pipelines. Integrates simulated IoT sensors for real-time hazard alerts and intelligent structural evaluations.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/cartcoroner-ai">🛒 CartCoroner AI</a></h3>
-      <p><i>Behavioral Analytics & Intelligence</i></p>
-      <p>An AI-driven cart abandonment intelligence platform utilizing deep sentiment analysis, predictive analytics, and intelligent recommendation workflows to optimize user retention and conversion pathways.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/XSteam">🎮 XSteam</a></h3>
-      <p><i>Game Review Intelligence & Analysis API</i></p>
-      <p>A high-performance NLP inference pipeline built with FastAPI. Leverages machine learning and customized TF-IDF vectorization to instantly predict sentiment, extract influential keywords, and score community helpfulness.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3 align="center"><a href="https://github.com/SAMBHAV001-tech/JetSet.ai">✈️ JetSet AI</a></h3>
-      <p align="center"><i>Intelligent Travel Ecosystem</i></p>
-      <p align="center">A modern AI-integrated travel platform showcasing elegant frontend development paired with deep backend integration, orchestrating intelligent workflows for seamless user experiences.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/SAMBHAV001-tech/SkillDelta"><img src="assets/skilldelta.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/MineGuard"><img src="assets/mineguard.svg" width="48%" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SAMBHAV001-tech/cartcoroner-ai"><img src="assets/cartcoroner.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/XSteam"><img src="assets/xsteam.svg" width="48%" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SAMBHAV001-tech/JetSet.ai"><img src="assets/jetset.svg" width="48%" /></a>
+</div>
 
 <br>
 
 ## 📈 Engineering Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <table bordercolor="#30363d" bgcolor="#0d1117">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -128,7 +114,13 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 ### 🐍 Contribution Graph & Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMBHAV001-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  <table bordercolor="#30363d" bgcolor="#0d1117">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMBHAV001-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
