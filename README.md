@@ -83,7 +83,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 <div align="center">
   <a href="https://github.com/SAMBHAV001-tech/SkillDelta"><img src="assets/skilldelta-v3.svg" width="48%" /></a>
-  <a href="https://github.com/SAMBHAV001-tech/MineGuard"><img src="assets/mineguard-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/JetSet.ai"><img src="assets/jetset-v3.svg" width="48%" /></a>
 </div>
 
 <div align="center">
@@ -92,7 +92,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 </div>
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/JetSet.ai"><img src="assets/jetset-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SAMBHAV001-tech/MineGuard"><img src="assets/mineguard-v3.svg" width="48%" /></a>
 </div>
 
 <br>
