@@ -10,8 +10,6 @@
     <i>Builder | AI & Backend Enthusiast | Systems-Focused Developer</i>
   </p>
 
-  </p>
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambhav-das/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sambhavdas444@gmail.com)
 
@@ -79,58 +77,55 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 <br>
 
-## 🔬 Featured Engineering Systems
+## 📌 Featured Engineering Systems
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/SkillDelta"><img src="assets/skilldelta-v3.svg" width="48%" /></a>
-  <a href="https://github.com/SAMBHAV001-tech/JetSet.ai"><img src="assets/jetset-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SamD444/SkillDelta"><img src="assets/skilldelta-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SamD444/JetSet.AI"><img src="assets/jetset-v3.svg" width="48%" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/cartcoroner-ai"><img src="assets/cartcoroner-v3.svg" width="48%" /></a>
-  <a href="https://github.com/SAMBHAV001-tech/XSteam"><img src="assets/xsteam-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SamD444/cartcoroner-ai"><img src="assets/cartcoroner-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SamD444/XSteam"><img src="assets/xsteam-v3.svg" width="48%" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SAMBHAV001-tech/MineGuard"><img src="assets/mineguard-v3.svg" width="48%" /></a>
+  <a href="https://github.com/SamD444/MineGuard"><img src="assets/mineguard-v3.svg" width="48%" /></a>
 </div>
 
 <br>
 
-## 📈 Engineering Metrics & Analytics
+## 📊 Engineering Metrics & Analytics
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMBHAV001-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-  </picture>
-</div>
-
-
-<br>
-
-### 🐍 Contribution Graph & Activity
-<div align="center">
-  <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMBHAV001-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamD444&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   </picture>
 </div>
 
 <br>
 
+### 📈 Contribution Graph & Activity
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMBHAV001-tech/SAMBHAV001-tech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMBHAV001-tech/SAMBHAV001-tech/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SAMBHAV001-tech/SAMBHAV001-tech/output/github-contribution-grid-snake.svg">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamD444&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
   </picture>
 </div>
-
-
 
 <br>
 
 <div align="center">
-  <picture><img src="https://komarev.com/ghpvc/?username=SAMBHAV001-tech&color=00A8FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamD444/SamD444/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamD444/SamD444/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamD444/SamD444/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture><img src="https://komarev.com/ghpvc/?username=SamD444&color=00A8FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></picture>
 </div>
 
 <div align="center">
