@@ -106,7 +106,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 ### 📈 Contribution Graph & Activity
 <div align="center">
   <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamD444&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=SamD444&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
   </picture>
 </div>
 
