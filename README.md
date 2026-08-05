@@ -104,9 +104,11 @@ I like participating in hackathons, experimenting with new technologies, and tur
 <br>
 
 ### 📈 Contribution Graph & Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/00A8FF/SamD444" alt="SamD444 Contribution Graph" />
-</p>
+<div align="center">
+  <picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamD444&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  </picture>
+</div>
 
 <br>
 
