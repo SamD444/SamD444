@@ -98,7 +98,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 ## 📊 Engineering Metrics & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamD444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=SamD444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
