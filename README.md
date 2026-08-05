@@ -99,7 +99,7 @@ I like participating in hackathons, experimenting with new technologies, and tur
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamD444&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    <img src="https://git-streak-stats.vercel.app/?user=SamD444&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   </picture>
 </div>
 
